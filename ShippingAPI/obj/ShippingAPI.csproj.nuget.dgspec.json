@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI\\Grduation Project\\BackEnd Project\\ApiProject\\ApiProject\\ShippingAPI\\ShippingAPI.csproj": {}
+    "E:\\MY Career\\ITI\\Graduation Project\\Shipping\\Shipping new\\ShippingSystemAPI\\ShippingAPI\\ShippingAPI.csproj": {}
   },
   "projects": {
-    "D:\\ITI\\Grduation Project\\BackEnd Project\\ApiProject\\ApiProject\\ShippingAPI\\ShippingAPI.csproj": {
+    "E:\\MY Career\\ITI\\Graduation Project\\Shipping\\Shipping new\\ShippingSystemAPI\\ShippingAPI\\ShippingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI\\Grduation Project\\BackEnd Project\\ApiProject\\ApiProject\\ShippingAPI\\ShippingAPI.csproj",
+        "projectUniqueName": "E:\\MY Career\\ITI\\Graduation Project\\Shipping\\Shipping new\\ShippingSystemAPI\\ShippingAPI\\ShippingAPI.csproj",
         "projectName": "ShippingAPI",
-        "projectPath": "D:\\ITI\\Grduation Project\\BackEnd Project\\ApiProject\\ApiProject\\ShippingAPI\\ShippingAPI.csproj",
-        "packagesPath": "C:\\Users\\Softlaptop\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI\\Grduation Project\\BackEnd Project\\ApiProject\\ApiProject\\ShippingAPI\\obj\\",
+        "projectPath": "E:\\MY Career\\ITI\\Graduation Project\\Shipping\\Shipping new\\ShippingSystemAPI\\ShippingAPI\\ShippingAPI.csproj",
+        "packagesPath": "C:\\Users\\Fatma Nassar\\.nuget\\packages\\",
+        "outputPath": "E:\\MY Career\\ITI\\Graduation Project\\Shipping\\Shipping new\\ShippingSystemAPI\\ShippingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Softlaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+          "C:\\Users\\Fatma Nassar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
